@@ -14,7 +14,7 @@ body{
     font-weight: 700;
     padding: 15px 35px;
 }
-.section-tiltle{
+.section-title{
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -106,4 +106,7 @@ main{
 }
 .info-description{
     font-weight: 700;
+}
+#what-i-do{
+    padding: 30px 150px;
 }
